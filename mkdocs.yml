@@ -1,4 +1,4 @@
-site_name: Style Guide
+site_name: Project Style Guide
 
 theme: 
     name: material  #readthedocs # material
@@ -25,3 +25,6 @@ nav:
     - values.md
     - design.md
     - project-types.md
+
+extra:
+  generator: false
