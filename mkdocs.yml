@@ -1,0 +1,5 @@
+site_name: RDDS Style Guide
+
+theme: 
+    name: material  #readthedocs # material
+    highlightjs: true  # only for readthedocs
