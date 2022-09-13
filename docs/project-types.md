@@ -5,3 +5,4 @@
 - digital editions 
 - publications 
 - community-engaged  
+- side-by-side translations

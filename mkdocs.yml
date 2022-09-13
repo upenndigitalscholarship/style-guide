@@ -25,6 +25,7 @@ nav:
     - values.md
     - design.md
     - project-types.md
+    - stages.md
 
 extra:
   generator: false
