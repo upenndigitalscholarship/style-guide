@@ -10,7 +10,7 @@
 
 **"The Hedgehog and the fox"**
 
-<img width="200" src="/assets/hedgehog-fox.png" />
+<img width="200" src="/style-guide/assets/hedgehog-fox.png" />
 
 There once were two forest animals who lived two very different lives. The hedgehog lived a very consistent life. He knew precisely where to forage for food and how best to keep it safe. He'd go back year after year. He did things the same way because it made life predictable and secure. He knew one thing, and he knew it better than anyone else. Because of this way of being, the hedgehog had time to explore other interests and made small improvements to his routine over the years, and he never felt uncertain or afraid that he'd have no food. He was also incredibly dull.  
 
