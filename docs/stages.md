@@ -1,4 +1,4 @@
-# Project stages 
+# project stages 
 
 1. Planning
     - project charter / mou 
