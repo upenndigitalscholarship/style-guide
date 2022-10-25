@@ -26,6 +26,7 @@ nav:
     - design.md
     - project-types.md
     - stages.md
+    - training.md
 
 extra:
   generator: false

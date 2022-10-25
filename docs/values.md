@@ -6,3 +6,9 @@
 - centered - build from us, not in response to others 
 - fun - if we don't like it, it won't get done
 
+Our values of colleagues
+- Can always ask for explainations and terminology
+- No open-ended questions or commitments
+- It's always ok to pushback when you don’t have time or not the best person for a task
+
+
