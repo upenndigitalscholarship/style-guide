@@ -1,4 +1,4 @@
-# Project stages 
+# project stages 
 
 1. Planning
     - The process begins with the RDDS project form 

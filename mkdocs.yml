@@ -24,9 +24,11 @@ theme:
 nav:
     - values.md
     - design.md
+    - minimal.md
     - project-types.md
     - stages.md
     - training.md
+    - research.md
 
 extra:
   generator: false
