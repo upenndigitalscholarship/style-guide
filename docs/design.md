@@ -6,6 +6,7 @@
 - design for re-use, not one-time solutions 
 - always try something new in a project
 - ownership, if the lights go out, have the switch to turn them back on
+- avoid single points of failure
 
 
 **"The Hedgehog and the fox"**
