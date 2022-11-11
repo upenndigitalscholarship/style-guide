@@ -25,9 +25,15 @@
     - If possible, project data should be published as a dataset 
     - User testing and feedback
     - Creation of a project sustainability plan (see https://sites.haa.pitt.edu/sustainabilityroadmap/)
-    - Deployment ends with a production version of the project 
+    - Deployment ends with a production version of the project
 
-4. Maintenance (3-year cycle)
+4. Closeout
+    -Closeout begins with ???
+    -Stakeholders, project manager, and all team members meet to reflect on the project to help inform planning and development of future projects as well as current project maintenance.
+    -Assessment of goals, resources, process, and documentation (see https://dhlab.yale.edu/assets/docs/Project-Close.pdf)
+    -Articulation of action items based on closeout results (like: do we need different equipment? do we need to build in a longer timeline next time?)
+
+5. Maintenance (3-year cycle)
     - Versioned updates of content and data 
     - versioned DOIs
     - Support for communications and promotion, conference presentations, workshops
